@@ -59,3 +59,18 @@ o con curl:
 ```bash
 curl "https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=cumulative&where=koi_disposition like 'CANDIDATE' and koi_period>300 and koi_prad<2" > exoplanets.csv
 ```
+
+La tabla de sistema planetario contiene:
+
+This page describes the parameters available in the Planetary Systems (PS) and Planetary Systems Composite Parameters (PSCompPars) interactive tables. These parameters can also be retrieved programmatically through the archive's Table Access Protocol (TAP) service.
+
+
+
+La tabla de PScompsPars contiene:
+
+This page describes the parameters available in the Planetary Systems (PS) and Planetary Systems Composite Parameters (PSCompPars) interactive tables. These parameters can also be retrieved programmatically through the archive's Table Access Protocol (TAP) service.
+
+
+La tabla de TESS contiene:
+
+La tabla TESS Objetos de interés (TOI) enumera los parámetros actualmente disponibles para los objetos de interés identificados por el Proyecto de satélite de estudio de exoplanetas en tránsito. 
